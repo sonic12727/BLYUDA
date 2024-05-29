@@ -1,0 +1,77 @@
+p {
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: center;
+    color: yellow
+    
+    
+}
+p {
+    border: 1px solid red;
+    padding: 10px;
+   }
+   
+h2 {
+    text-align: center;
+    color: white
+    
+    
+}
+img {
+    margin-left: 36%;
+}
+table { 
+    margin-left: 34%;
+    
+}
+html, body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    font-family: 'Amatic SC', cursive;
+  }
+   
+.header { 
+    text-align: center;
+    color: white;
+}
+.mylist {
+    list-style-type: disc;
+    padding-left: 1.5em;
+    margin: 0;
+    color: red;
+  }
+  
+  .mylist li {
+    margin-bottom: 0.5em;
+  }
+  .mycontacts {
+    color: red
+  }
+  
+
+
+
+
+
+#plov {
+    text-align: center;
+    color: white;
+}
+#besh {
+    text-align: center;
+    color: white;
+}
+#baur {
+    text-align: center;
+    color: white;
+}
+
+
+
+
+
+
+  
+
